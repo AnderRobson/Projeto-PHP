@@ -1,0 +1,16 @@
+{
+    "name": "ander/projetofinal",
+    "description": "Projeto final cadeira de PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ander Robson",
+            "email": "ander.robson1287@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}
